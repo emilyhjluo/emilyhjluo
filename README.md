@@ -10,7 +10,7 @@
       <ul>
         <li>AI/ML</li>
         <li>Web Dev</li>
-        <li>Apps</li>
+        <li>iOS</li>
       </ul>
     </li>
     <li>Reading:
