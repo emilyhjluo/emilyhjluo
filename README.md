@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
   <li>Classics</li>
   <li>Fantasy</li>
 </ul></li>
-  <li>Basketball</li>
+  <li>(Watching) Sports</li>
 </ul>
   <h4>I am always open to collaborating and learning new things!</h4>
   <h4>You can reach me <a href="emily0127coding@gmail.com">@emily0127coding@gmail.com</a>.</h4>
