@@ -2,7 +2,7 @@
 <html>
 <body>
   <h1>Hello, I am Emily Luo</h1>
-  <p>I am a junio in high school. I am interested on automated vehicles, Artificial Inteligencecomputational physics, and cybersecurity.</p>
+  <p>I am a junior at Diamond Bar High School. I am interested on automated vehicles, Artificial Inteligencecomputational physics, and cybersecurity.</p>
 
  
 <!--   <ul>
