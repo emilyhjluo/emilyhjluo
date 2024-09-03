@@ -4,7 +4,7 @@
   <h1>Hello, I am Emily Luo</h1>
   <p>I am a junio in high school. I am interested on automated vehicles, Artificial Inteligencecomputational physics, and cybersecurity.</p>
 
-  <h2>Things that I am interested in:</h2>
+ 
 <!--   <ul>
     <li>Coding:
       <ul>
